@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.browsers/
+review/
+.env*
+logs/
+*.log
